@@ -6,7 +6,7 @@
 
 ## Seminars and Videos
 
-- [Online Causal Inference Seminar](https://sites.google.com/view/ocis/)[Videos](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
+- [Online Causal Inference Seminar](https://sites.google.com/view/ocis/) [(Videos)](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
 
 ## Libraries
 
