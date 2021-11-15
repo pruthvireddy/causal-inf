@@ -6,6 +6,9 @@
 - [EconML](https://github.com/microsoft/EconML) by Microsoft
 
 
+## Journals
+
+- Journal of Caual Inference - (Link)[https://www.degruyter.com/journal/key/jci/html?lang=en]
 
 ## Notes
 - Experience in applying at least one of the following in your research: survey methodology (e.g., bias correction, sampling and design), quantitative research methods or statistical analysis, regression modeling, causal inference with a survey outcome, shrinkage and regularization, designing and analyzing longitudinal panel surveys, behavioral data analysis
