@@ -1,4 +1,9 @@
 # causal-inf
+## Libraries
+
+[CausalML] (https://github.com/uber/causalml)
+[EconML] (https://github.com/microsoft/EconML)
+
 
 
 - Experience in applying at least one of the following in your research: survey methodology (e.g., bias correction, sampling and design), quantitative research methods or statistical analysis, regression modeling, causal inference with a survey outcome, shrinkage and regularization, designing and analyzing longitudinal panel surveys, behavioral data analysis
