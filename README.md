@@ -1,4 +1,13 @@
 # causal-inf-nuggets
+
+## Online Courses
+
+- [Brady Neal](https://www.bradyneal.com/causal-inference-course)
+
+## Seminars and Videos
+
+- [Online Causal Inference Seminar](https://sites.google.com/view/ocis/)[Videos](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
+
 ## Libraries
 
 - [Causality](https://github.com/akelleh/causality) by Adam Kelleher
@@ -9,6 +18,12 @@
 ## Journals
 
 - Journal of Caual Inference - [Link](https://www.degruyter.com/journal/key/jci/html?lang=en)
+
+## Researchers
+
+- [Judea Pearl](http://bayes.cs.ucla.edu/jp_home.html)
+- [Elais Bareinboim](https://causalai.net/)
+- [Carlos Cinelli](https://carloscinelli.com/index.html)
 
 ## Notes
 - Experience in applying at least one of the following in your research: survey methodology (e.g., bias correction, sampling and design), quantitative research methods or statistical analysis, regression modeling, causal inference with a survey outcome, shrinkage and regularization, designing and analyzing longitudinal panel surveys, behavioral data analysis
