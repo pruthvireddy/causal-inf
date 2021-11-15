@@ -4,9 +4,10 @@
 
 - [Brady Neal](https://www.bradyneal.com/causal-inference-course)
 
-## Seminars and Videos
+## Conference & Seminars
 
 - [Online Causal Inference Seminar](https://sites.google.com/view/ocis/) [(Videos)](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
+- Causal Data Science ([CDSM](https://www.causalscience.org/))
 
 ## Libraries
 
