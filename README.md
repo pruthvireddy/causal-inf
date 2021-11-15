@@ -1,4 +1,4 @@
-# causal-inf
+# causal-inf-nuggets
 ## Libraries
 
 - [Causality](https://github.com/akelleh/causality) by Adam Kelleher
