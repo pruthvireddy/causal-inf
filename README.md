@@ -1,4 +1,6 @@
-# causal-inf-nuggets
+# Causal Inference Nuggets
+
+This repo is my effor to collect and gather all the resources, including the notebooks/code that I've learnt or used in the courses i've taken or the proejcts I've done.
 
 ## Online Courses
 
