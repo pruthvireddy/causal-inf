@@ -19,7 +19,7 @@
 - [Causale2e](https://github.com/MLResearchAtOSRAM/cause2e) by Daniel Grünbaum
 - [PyCausal](https://pypi.org/project/pycausal/)
 - [DoWhy](https://microsoft.github.io/dowhy/) by Microsoft
-- [CausalNex](https://causalnex.readthedocs.io/en/latest/)
+- [CausalNex](https://causalnex.readthedocs.io/en/latest/) by McKinsey
 
 ## Journals
 
