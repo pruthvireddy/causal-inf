@@ -2,8 +2,10 @@
 
 ## Online Courses
 
-- [Brady Neal](https://www.bradyneal.com/causal-inference-course)
-
+- [Brady Neal](https://www.bradyneal.com/causal-inference-course) Causal Inference
+- [Paul Hünermund](https://www.udemy.com/course/causal-data-science/) Causal Data Science
+- [Michael E. Sobel](https://www.coursera.org/learn/causal-inference#syllabus) Causal Inference in 2 parts
+- [PGM](https://ermongroup.github.io/cs228-notes/)
 ## Conference & Seminars
 
 - [Online Causal Inference Seminar](https://sites.google.com/view/ocis/) [(Videos)](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
@@ -14,7 +16,10 @@
 - [Causality](https://github.com/akelleh/causality) by Adam Kelleher
 - [CausalML](https://github.com/uber/causalml) by Uber
 - [EconML](https://github.com/microsoft/EconML) by Microsoft
-
+- [Causale2e](https://github.com/MLResearchAtOSRAM/cause2e) by Daniel Grünbaum
+- [PyCausal](https://pypi.org/project/pycausal/)
+- [DoWhy](https://microsoft.github.io/dowhy/) by Microsoft
+- [CausalNex](https://causalnex.readthedocs.io/en/latest/)
 
 ## Journals
 
