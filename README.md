@@ -8,6 +8,7 @@ This repo is my effor to collect and gather all the resources, including noteboo
 - [Paul Hünermund](https://www.udemy.com/course/causal-data-science/) Causal Data Science
 - [Michael E. Sobel](https://www.coursera.org/learn/causal-inference#syllabus) Causal Inference in 2 parts
 - [PGM](https://ermongroup.github.io/cs228-notes/)
+
 ## Conference & Seminars
 
 - [Online Causal Inference Seminar](https://sites.google.com/view/ocis/) [(Videos)](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
@@ -22,6 +23,12 @@ This repo is my effor to collect and gather all the resources, including noteboo
 - [PyCausal](https://pypi.org/project/pycausal/)
 - [DoWhy](https://microsoft.github.io/dowhy/) by Microsoft
 - [CausalNex](https://causalnex.readthedocs.io/en/latest/) by McKinsey
+
+## Datasets
+- [A collections of datasets by Ruocheng Guo] (https://github.com/rguo12/awesome-causality-data)
+
+## Causality Algorithms 
+- [Algorithms collection by Ruocheng Guo](https://github.com/rguo12/awesome-causality-algorithms)
 
 ## Journals
 
