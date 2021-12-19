@@ -1,3 +1,7 @@
+# Causal Data Science Meeting 2021
+
+[CDSM Program](https://www.causalscience.org/meeting/program/)
+
 - Estimating returns to special education: Combining machine learning and text analysis to address confounding (Aurélien Sallin,St. Gallen University)
 
 - What’s on the telly? Causality for recommender systems in public-service media corporations (Jordi Mur, University of Barcelona)
