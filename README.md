@@ -9,6 +9,11 @@ This repo is my effor to collect and gather all the resources, including noteboo
 - [Michael E. Sobel](https://www.coursera.org/learn/causal-inference#syllabus) Causal Inference in 2 parts
 - [PGM](https://ermongroup.github.io/cs228-notes/)
 
+#### Youtube
+
+- [Causal Deep Learning](https://www.youtube.com/channel/UCVmkoZ7RbcwPRhOQIiWFUyA/videos)
+- [Brady Neal Videos](https://www.youtube.com/c/BradyNealCausalInference/videos)
+
 ## Conference & Seminars
 
 - [Online Causal Inference Seminar](https://sites.google.com/view/ocis/) [(Videos)](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
